@@ -1,4 +1,6 @@
-﻿namespace Finder_World
+﻿using System;
+
+namespace Finder_World
 {
     internal class Program
     {
