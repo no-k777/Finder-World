@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Finder World (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Finder World (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
